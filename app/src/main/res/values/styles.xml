@@ -2,7 +2,22 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        <!-- Customize your theme here.
+         android:background="#0088aa"-->
+    </style>
+    <style name="MyEditBottom">
+        <item name = "android:layout_width">280dp</item>
+        <item name = "android:layout_height">55dp</item>
+        <item name = "android:layout_marginTop">20dp</item>
+        <item name = "android:typeface">serif</item>
+        <item name = "android:textStyle">bold</item>
+        <item name = "android:gravity">center</item>
+        <item name = "android:layout_gravity">center_horizontal</item>
+        <item name = "android:background">#2aff80</item>
+    </style>
+
+    <style name="MyEditBottom.LargeFont">
+        <item name = "android:background">#0088aa</item>
     </style>
 
 </resources>
