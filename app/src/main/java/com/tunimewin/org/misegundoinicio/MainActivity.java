@@ -15,13 +15,11 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.inicio);
     }
-    public void acepta(View view)
-    {
-        Intent i = new Intent(this, Acepta.class);
-        startActivity(i);
-    }
-
-
+    //public void acepta(View view)
+    //{
+    //    Intent i = new Intent(this, Acepta.class);
+    //    startActivity(i);
+   // }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
