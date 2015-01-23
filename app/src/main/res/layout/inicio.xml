@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#00aad4"
     android:gravity="center"
-    android:id="@+id/">
+    android:id="@+id/julio">
 
     <LinearLayout
 
@@ -18,7 +18,7 @@
 
             android:layout_width="wrap_content"
             android:layout_height="150dp"
-            android:src="@drawable/icono4"
+            android:src="@drawable/inicio"
             android:layout_gravity="center_horizontal" />
 
     </LinearLayout>
