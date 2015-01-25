@@ -21,18 +21,28 @@
         <item name = "android:background">#0088aa</item>
     </style>
 
-    <style name = "MyStyleBottom1">
+    <style name = "MyStyleBottom">
         <item name = "android:gravity">center</item>
-        <item name = "android:typeface">monospace</item>
         <item name = "android:textStyle">bold</item>
         <item name = "android:textSize">20sp</item>
+        <item name = "android:src">@color/color_azul_obscuro</item>
     </style>
-    <style name = "MyStyleBottom2">
+
+    <style name = "MyStyleBottom.LargeFont">
+        <item name = "android:src">@color/color_azul</item>
         <item name = "android:">serif</item>
-
     </style>
-    <style name = "MyStyleBottom3">
+
+    <style name = "MyStyleBottom1">
+        <item name = "android:gravity">center</item>
+        <item name = "android:textStyle">bold</item>
+        <item name = "android:textSize">20sp</item>
         <item name = "android:typeface">sans</item>
-
     </style>
+
+    <style name = "MyStyleBottom1.LargeFont">
+        <item name = "android:typeface">monospace</item>
+    </style>
+
+
 </resources>

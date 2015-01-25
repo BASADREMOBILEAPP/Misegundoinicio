@@ -8,8 +8,9 @@
     <color name = "color_negro">#000000</color>
     <color name = "color_naranja">#FF9800</color>
     <color name = "color_gris">#9E9E9E</color>
-    <color name = "color_luz_verde">#8BC34A</color>
+    <color name = "color_luz_verde">#2aff80</color>
     <color name = "color_morado">#9C27B0</color>
     <color name = "color_rosado">#E91E63</color>
     <color name = "color_cafe">#795548</color>
+    <color name = "color_azul_obscuro">#006680</color>
 </resources>
