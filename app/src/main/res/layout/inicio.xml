@@ -51,9 +51,10 @@
             android:layout_width="150dp"
             android:layout_height="60dp"
             android:text="LOGIN"
-            android:background="#006680"
+            android:background="@drawable/botton_circle"
             android:nestedScrollingEnabled="false"
-            android:onClick="acepta"/>
+            android:onClick="acepta"
+            android:id="@+id/botton" />
         </LinearLayout>
 
 </LinearLayout>
